@@ -4,7 +4,7 @@
 > ## Odkaz na video - ukázka responzivity - https://youtu.be/XUD0cFwTBOY
 
 # Screenshot webu
-> ![website](Infographics/Images/page.png)
+> ![website](./Images/page.png)
 
 # Screenshoty pro různá zařízení.
 > ![iphone_14](./Images/ip_14.png)
