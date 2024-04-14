@@ -7,11 +7,11 @@
 > ![website](Infographics/Images/page.png)
 
 # Screenshoty pro různá zařízení.
-> ![iphone_14](Infographics/Images/ip_14.png)
+> ![iphone_14](./Images/ip_14.png)
 ***
-> ![iphone_14](Infographics/Images/ip_air.png)
+> ![ipad_air](./Images/ip_air.png)
 ***
-> ![iphone_14](Infographics/Images/nest.png)
+> ![nest_hub](./Images/nest.png)
 
 
 
